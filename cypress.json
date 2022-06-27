@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://example.cypress.io",
+  "defaultCommandTimeout":10000,
+  "env" : {
+    "url" : "https://demo.opencart.com"
+  }
+}
